@@ -1,0 +1,108 @@
+.counter-container {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    padding: 20px;
+    position: relative;
+  }
+  
+  .counter-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  
+  .counter-name {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .close-button {
+    font-size: 16px;
+    font-weight: bold;
+    background: transparent;
+    border: none;
+    color: #aaa;
+    cursor: pointer;
+  }
+  
+  .counter-value {
+    font-size: 48px;
+    font-weight: bold;
+    padding: 10px 20px;
+    background-color: #f3f3f3;
+    border-radius: 5px;
+  }
+  
+  .counter-controls {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .control-button {
+    background-color: #f3f3f3;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 36px;
+    padding: 10px 20px;
+    margin: 0 10px;
+  }
+  
+  .counter-options {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .option-button {
+    background-color: #f3f3f3;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 0 10px;
+  }
+  
+  .counter-input {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  input {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  .input-button {
+    background-color: #f3f3f3;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 0 10px;
+  }
+  
+  .counter-footer {
+    margin-top: 20px;
+  }
+  
+  .reset-button {
+    background-color: #f3f3f3;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 10px 20px;
+  }
+  
